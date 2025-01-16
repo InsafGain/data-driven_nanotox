@@ -1,8 +1,9 @@
 Описание проекта: Домен- здравоохранение
+
 1.Значение- Наночастицы широко применяются в медицине, косметике, электронике, пищевой промышленности и других областях. Оценка токсичности позволяет разрабатывать безопасные продукты и процессы. 
 2. Парсинг данных осуществлялся путем использования open source баз данных, а также собранных учеными в разное время сводных таблиц характеристик наночастиц. 
 
- 1) https://www.kaggle.com/datasets/ucimachinelearning/nanoparticle-toxicity-dataset
+1) https://www.kaggle.com/datasets/ucimachinelearning/nanoparticle-toxicity-dataset
 2)https://github.com/NanoTox/ToxicityModel/blob/master/dataset.txt
 3)https://db.nanopharos.eu/Queries/Datasets.zul?datasetID=np1
 
