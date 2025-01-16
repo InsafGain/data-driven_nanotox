@@ -6,14 +6,14 @@
 
 2. Парсинг данных осуществлялся путем использования open source баз данных, а также собранных различными исследовательскими группами в разное время сводных таблиц характеристик наночастиц
 
-1) https://www.kaggle.com/datasets/ucimachinelearning/nanoparticle-toxicity-dataset
+ 1) https://www.kaggle.com/datasets/ucimachinelearning/nanoparticle-toxicity-dataset
 
-2)https://github.com/NanoTox/ToxicityModel/blob/master/dataset.txt
+ 2)https://github.com/NanoTox/ToxicityModel/blob/master/dataset.txt
 
-3)https://db.nanopharos.eu/Queries/Datasets.zul?datasetID=np1
+ 3)https://db.nanopharos.eu/Queries/Datasets.zul?datasetID=np1
 
 3. Преподготовка данных
- 1) Просмотр структуры датафрейма
+	1) Просмотр структуры датафрейма
  2) Работа с пропусками: для оптимизации работы колонки с пропущенными значениями были удалены
  3) Работа с дубликатами: с помощью функции drop_duplicates() были удалены повторяющиеся объекты 
  4) Для обнаружения и исключения выбросов применялся метод квартелей (IQR)
