@@ -4,7 +4,9 @@
 2. Парсинг данных осуществлялся путем использования open source баз данных, а также собранных учеными в разное время сводных таблиц характеристик наночастиц. 
 
 1) https://www.kaggle.com/datasets/ucimachinelearning/nanoparticle-toxicity-dataset
+
 2)https://github.com/NanoTox/ToxicityModel/blob/master/dataset.txt
+
 3)https://db.nanopharos.eu/Queries/Datasets.zul?datasetID=np1
 
 3. Очистка данных : Очистка данных осуществлялась с помощью библиотеки pandas 
